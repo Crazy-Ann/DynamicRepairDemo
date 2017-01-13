@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DynamicRepairDemo.iml" filepath="$PROJECT_DIR$/DynamicRepairDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepairEngine/RepairEngine.iml" filepath="$PROJECT_DIR$/RepairEngine/RepairEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srcBuild/srcBuild.iml" filepath="$PROJECT_DIR$/srcBuild/srcBuild.iml" />
+    </modules>
+  </component>
+</project>
